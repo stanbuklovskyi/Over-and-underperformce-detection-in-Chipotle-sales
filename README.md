@@ -19,15 +19,15 @@ Let's dive in🚀
 **Overview**
 * Determined  natural groups of Chipotle stores in the US
 (*K-Means clustering, Silhouette and Elbow optimization, Gaussian Mixtures*)
-Image
+"Image here"
 
 * Developed a subroutine for modern, clear and understandable cluster visualization
 (*ConvexHull, Spline Interpolation of boundaries*)
-Image
+"Image here"
 
 * Found stores that are optimal for restructuring and expences management 
 (*Ouliers detection algorithm and its optimization studies*)
-Image
+"Image here"
 
 
 ## Authors
