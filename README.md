@@ -66,12 +66,5 @@ Let's dive in🚀
 
 ## Contributing
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-
+Contributions are always welcome! Just hit me via the email or LinkedIn mentined above. 
 
