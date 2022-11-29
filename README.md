@@ -1,5 +1,5 @@
 
-# Machine Learning Algorithms for analysis and optimization of expences in Chipotle stores
+# Smart detection of under and overperformance in business sales using mahine learning
 
 Here is a peek at my project on the application of Machine Learning algorithms to the field
 of business and sales.
