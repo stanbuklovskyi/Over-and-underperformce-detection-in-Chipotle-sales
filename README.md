@@ -44,9 +44,6 @@ Let's dive in🚀
 
 
 
-
-
-
 ## Acknowledgements
 
  - [Advice on data processing and Machine Learning algorithms](https://www.linkedin.com/in/alexanderknysh/)
@@ -57,4 +54,10 @@ Let's dive in🚀
 ## Contributing
 
 Contributions are always welcome! Just hit me via the email or LinkedIn mentined above. 
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
