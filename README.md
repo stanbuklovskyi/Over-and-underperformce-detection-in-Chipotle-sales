@@ -7,6 +7,7 @@ of business and sales.
 Let's dive in🚀
 
 **Overview**
+
 📌 Determined  natural groups of Chipotle stores in the US
 (*K-Means clustering, Silhouette and Elbow optimization*)
 "Image here"
